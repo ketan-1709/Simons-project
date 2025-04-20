@@ -19,10 +19,8 @@ Simon Game is a memory skill game where players must repeat a sequence of colors
 - **CSS** – for styling and animations
 - **JavaScript** – for game logic and user interaction
 
-## 📸 Screenshots
-
-![Simon Game Screenshot](screenshot.png)  
-*(Include a screenshot of your game here)*
+## 🚀 Live Demo
+https://ketan-1709.github.io/Simons-project/
 
 ## 🔧 How to Play
 
